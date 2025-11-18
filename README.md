@@ -22,10 +22,9 @@ Indice:
 ## Simulaciones 
 
 
-## Implementación
+## Evidencias de implementación
 
 
-## Conclusiones
 
 
 
